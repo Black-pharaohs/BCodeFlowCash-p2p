@@ -1,0 +1,7 @@
+{
+  "name": "FlowCash P2P",
+  "description": "A seamless peer-to-peer currency exchange application with proximity matching and AI-powered financial insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
